@@ -1,3 +1,7 @@
+//James P. Motus
+//BSIT 1-4
+// Sudoku Game Project 1
+
 #include <stdio.h>
 #include <windows.h>
 #include <time.h>
