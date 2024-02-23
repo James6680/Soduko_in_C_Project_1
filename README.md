@@ -1,0 +1,3 @@
+Sudoku is a logic-based number placement puzzle game played on a 6x6 grid. The objective is to fill the grid so that each row, each column, and each of the six 2x3 subgrids contain all of the digits from 1 to 6. Similar to the classic 9x9 Sudoku, the game starts with some cells pre-filled with numbers, and the player's task is to complete the grid by placing the remaining numbers without repeating any within the same row, column, or subgrid.
+
+This variation of Sudoku offers a more compact challenge, suitable for those seeking a quicker gameplay experience or a fresh take on the traditional puzzle format. It still requires logical deduction and careful reasoning to solve efficiently.
